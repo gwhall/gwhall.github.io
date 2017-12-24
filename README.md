@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+<h1>Hello!</h1>
+## Welcome to my page!
 
 You can use the [editor on GitHub](https://github.com/gwhall/gwhall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
