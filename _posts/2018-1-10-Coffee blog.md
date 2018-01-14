@@ -43,21 +43,19 @@ Coffee producers have always relied upon simple, traditional methods to grow and
 <br>
 <br>Every mill has its own quirks. Here, days go like this;  
 <br>1. Coffee fruit picked throughout the day by entire families.<br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">They and their harvest arrive at the mill in dump trucks between 3 and 7 pm.  <br><img src="{{ site.github.url }}/assets/img/Delivery truck.jpg">
-<br>2. <img src="{{ site.github.url }}/assets/img/Weighing quintales.jpg"> 
-<br>Families weigh their bags by the “quintal” (100 lbs.). This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
+<br>2. <br>Families weigh their bags by the “quintal” (100 lbs.)<br><img src="{{ site.github.url }}/assets/img/Weighing quintales.jpg"> <br> This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
 <br>3. Fruit is dumped into giant tanks of water. Here, the first separation of quality occurs. Any “floaters” (over-ripe or otherwise defected fruit (due to pest infestation or disease) are scraped off, are depulped and sent to concrete fermentation tanks. 
-<br>	4. <img src="{{ site.github.url }}/assets/img/Pulp truck.jpg">
-<br>All pulp is sent through PVC tubes to a truck outside the mill. The pulp will be sent to nurseries for use as compost. 
-<br>5. The remaining, higher-quality (more dense) coffee is washed out of the tanks, to machines called “cribas” classify coffee based on size. The ranking goes
+<br>All pulp is sent through PVC tubes to a truck outside the mill.<br> <img src="{{ site.github.url }}/assets/img/Pulp truck.jpg"><br> The pulp will be sent to nurseries for use as compost. 
+<br>4. The remaining, higher-quality (more dense) coffee is washed out of the tanks, to machines called “cribas” classify coffee based on size. The ranking goes
 1A (largest), then 1B, 2, and 1C (smallest). I never found out why 1C isn’t before 2…<br>
 Each criba has holes that allow seeds under a certain size to pass. In the first criba, 1A cannot pass, and is transported in water through dedicated channels. Extremely mature fruit has already been depulped, so some beans are already free. These fall to the bottom of the channels as the pass, and are directed through the a series of pipes of a canyon Colorado (shown below). This nifty system effectively separates free beans from pulp, all with the help of gravity. Pulp floats, and beans sink. 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/ijnEld1fMJo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>The holes in this criba, again, allow 1A beans to pass and fall into the 1A fermentation tank, but not pulp. Any remaining whole fruit is passed through a depulper, which uses pressure to separate the bean from its pulp. These beans pass through yet another criba (another backup), then into the same 1A fermentation tank. 
-<br>6. The rest of non-1A beans pass through a second criba that selects for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller bean size. 
-<br>7. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<br>8. Beans are fermented in open concrete tanks.<br><img src="{{ site.github.url }}/assets/img/Fermentation tank with Mario.jpg"><br>They definitely are not sterile, but do the job.<br><img src="{{ site.github.url }}/assets/img/Dirty tank.jpg"><br>
-<br>9.After fermentation, beans then washed to remove mucilage. They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
-<br>10. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg.jpg">
+<br>5. The rest of non-1A beans pass through a second criba that selects for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller bean size. 
+<br>6. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>7. Beans are fermented in open concrete tanks.<br><img src="{{ site.github.url }}/assets/img/Fermentation tank with Mario.jpg"><br>They definitely are not sterile, but do the job.<br><img src="{{ site.github.url }}/assets/img/Dirty tank.jpg"><br>
+<br>8.After fermentation, beans then washed to remove mucilage. They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
+<br>9. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg.jpg">
 
 
 <br><br>It was tough to get a video that truly conveys the feel of the system, but here is one angle. 
