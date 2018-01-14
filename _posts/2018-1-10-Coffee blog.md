@@ -22,7 +22,7 @@ I just ask you remember one key thing:
 <br><br>
 1. Fermentation is a strictly anaerobic process. <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br> There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase. In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others don’t). These details remain mostly unknown. <br>I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
 <br><br>	
-Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here is a link to useful background information to know. 
+Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here are useful links to background info. 
 <br>-	<a href="http://redberrycoffee.co.id/wp-content/uploads/2017/04/Anatomy-of-a-Coffee-Bean-3-e1493459376430.jpg">Coffee fruit anatomy</a>
 <br>-	<a href="http://www.fao.org/docrep/003/X6939E/img/dry_processing1.gif">Coffee fruit’s fate after picking (wet or dry method processes)</a>
 <br>-	<a href="https://en.wikipedia.org/wiki/Coffee_production#Wet_process">Why “fermentation” is used (to convert the mucilage from insoluble to soluble substance)</a> 
