@@ -54,7 +54,7 @@ Each criba has holes that allow seeds under a certain size to pass. In the first
 <br>6. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>7. Beans are fermented in open concrete tanks.<br><img src="{{ site.github.url }}/assets/img/Fermentation tank with Mario.jpg"><br>They definitely are not sterile, but they do the job.<br><img src="{{ site.github.url }}/assets/img/Dirty tank.jpg"><br>
 <br>8.After fermentation, beans then washed to remove mucilage. They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
-<br>9. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg.jpg">
+<br>9. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg">
 
 
 <br><br>It was tough to get a video that truly conveys the feel of the system, but here is one angle. 
