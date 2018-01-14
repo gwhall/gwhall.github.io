@@ -1,0 +1,18 @@
+# Change to true for Disqus comments
+disqus:
+  comments: TRUE
+  disqus_shortname: 'gwhall8'
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'facebook', link: 'https://www.facebook.com/griffin.hall.9'}
+- {icon: 'instagram', link: 'https://instagram.com/griffin.fleur'}
+- {icon: 'envelope', link: 'mailto:griffinwh8@gmail.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+
+sharing_button_prompt: 'Feel free to share!'
+
+post_date_prefix: 'Written on'
