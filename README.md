@@ -1,1 +1,0 @@
-# gwhall.github.io
