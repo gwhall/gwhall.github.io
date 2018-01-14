@@ -180,10 +180,10 @@ The cuppers are all professional Q graders (the highest certification) who cup m
 <br>
 
 Wrapping up:<br>
-I’m back in the USA and wish I had a more definitive end to my blog. Something like- “and we discovered the yeast is the best thing ever! Incredible gains!”. But alas, the study has not been concluded- but it will be. <br>
-Towards the end of my stay, several workers asked when I would be returning. I had to admit that I don’t know when, or even if, I will. 
-<br>I would love to return. I found the culture to be warm and welcoming. I miss how everyone greets each other in passing on the street. People are generally not obsessed with climbing the corporate ladder, and put their families, friends, and faith first. 
-<br>I read countless horror stories online before I came. Yet, nothing bad happened to me. This is not to discount the reality that Guatemala is a country that has problems. Money is hard to come by, and prices aren’t as low as you might think (I think México was actually cheaper to travel in.). Still, it is a shame that the national image is dominated by fearful stories. I encourage people to visit if that have an opportunity- the natural and cultural beauty is breathtaking. Learn some Spanish before you go, and you will find the experience that much more delightful.
+I've spend the Holidays back in the USA and wish I had a more definitive end to my blog. Something like- “...and we discovered the yeast is the best thing ever! Incredible gains!”. But alas, we await the final sample's cupping scores. <br>
+In the last few work days, several workers asked when I would return. I had to admit that I don’t know when, or even if, I will. 
+<br>I would love to return. I found the culture to be overwhelmingly warm and welcoming. I miss seeing people greet each other in passing on the street. Values generally do not include climbing a sort of corporate ladder, but rather lie primarily in caring for their families, friends, and having faith.  
+<br>I admittidly was nervous to arrive after I read countless horror stories online. Luckily, I didn't encounter ill will. This is not to discount the reality that Guatemala is a country that has its problems. Money is hard to come by, and prices aren’t as low as you might think (I think México was actually cheaper to travel in.). Still, it is a shame that the national image is dominated by fearful stories. I encourage people to visit if that have an opportunity- the natural and cultural beauty is breathtaking. Learn some Spanish before you go, and you will find the experience that much more delightful.
 <br>I hope I can continue to be involved with coffee and research. I am excited about the future of the industry, which seems to be making a push towards progression of their practices. Thanks for reading this blog. When you next bean up with a cup of absolutely bomb and potent coffee, consider taking a moment to consider how much work was done for your enjoyment. 
 <br>
 
