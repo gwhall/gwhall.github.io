@@ -7,7 +7,7 @@ tags: [sample]
 image: Patio-beans.jpg
 ---
 <body>
- In mid November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a><br>Data was recorded in Spanish, so let me know if you need a translation. 
+ In mid November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a>By the way, underlined words are hyperlinks, so click on them! <br>These data were recorded in Spanish, so let me know if you need a translation. 
  <br>During this time, I lived in a nice house on the finca (plantation) only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
 The five weeks gave me much to write about, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
@@ -42,7 +42,7 @@ Coffee producers have always relied upon simple, traditional methods to grow and
 <br>I spent the first three days learning how coffee is wet processed here. The general process goes like this: depulping, classification based on size, “fermentation” in concrete tank between 12-48 hours, submersion in water for 12 hours to remove mucilage, washing, drying in patio and subsequently in revolving dryers. Beans are bagged and remain in the “bodega” until they are trucked to a dry processing mill, where the parchment (“cascarillo”) will be removed from the inner “café de oro”. This “oro” is what is exported, roasted, and enjoyed in far away lands. 
 <br>
 <br>Every mill has its own quirks. Here, days go like this;  
-<br>1. Coffee fruit picked throughout the day by entire families. They and their harvest arrive at the mill in dump trucks between 3 and 7 pm.  
+<br>1. Coffee fruit picked throughout the day by entire families.<br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">They and their harvest arrive at the mill in dump trucks between 3 and 7 pm.  <br><img src="{{ site.github.url }}/assets/img/Delivery truck.jpg">
 <br>2. <img src="{{ site.github.url }}/assets/img/Weighing quintales.jpg"> 
 <br>Families weigh their bags by the “quintal” (100 lbs.). This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
 <br>3. Fruit is dumped into giant tanks of water. Here, the first separation of quality occurs. Any “floaters” (over-ripe or otherwise defected fruit (due to pest infestation or disease) are scraped off, are depulped and sent to concrete fermentation tanks. 
@@ -54,8 +54,12 @@ Each criba has holes that allow seeds under a certain size to pass. In the first
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/ijnEld1fMJo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>The holes in this criba, again, allow 1A beans to pass and fall into the 1A fermentation tank, but not pulp. Any remaining whole fruit is passed through a depulper, which uses pressure to separate the bean from its pulp. These beans pass through yet another criba (another backup), then into the same 1A fermentation tank. 
 <br>6. The rest of non-1A beans pass through a second criba that selects for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller bean size. 
-<br>7. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>7. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>8. Beans are fermented in open concrete tanks.<br><img src="{{ site.github.url }}/assets/img/Fermentation tank with Mario.jpg"><br>They definitely are not sterile, but do the job.<br><img src="{{ site.github.url }}/assets/img/Dirty tank.jpg"><br>
+<br>9.After fermentation, beans then washed to remove mucilage. They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
+<br>10. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg.jpg">
+
+
 <br><br>It was tough to get a video that truly conveys the feel of the system, but here is one angle. 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/9xiyqCGfMzY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br><br>
@@ -99,9 +103,9 @@ He works as a farm advisor for <a href="https://translate.google.com/translate?h
 For each experiment, we used 10 kg of bean in each big blue bucket. 
 < br>><img src="{{ site.github.url }}/assets/img/Experiment bucket.jpg"><br>
 For this test, we let it run until it was at wash point. Traditionally, the stick method has been employed to determine when a lot is ready to be washed. 
-<br> However, we used a slightly more modern method of pH strips to determine when to terminate. (about pH 4). I know…so fancy. 
+<br> However, we used a slightly more modern method of pH strips to determine when to terminate. (about pH 4). I know…so fancy.
 <br><img src="{{ site.github.url }}/assets/img/pH.jpg">
-<br><br>
+<br> <br> We also counted the number of beans per pound, to calculate weight lost between various processing phases. <img src="{{ site.github.url }}/assets/img/Count beans again.jpg"><br>
 
 That night at home, I tried to do some Internet research to learn what environmental factors could affect fermentation. I immediately missed having connection to a university internet- I could only read paper summaries (called Abstracts). ☹ 
 
@@ -183,7 +187,7 @@ Wrapping up:<br>
 I've spend the Holidays back in the USA and wish I had a more definitive end to my blog. Something like- “...and we discovered the yeast is the best thing ever! Incredible gains!”. But alas, we await the final sample's cupping scores. <br>
 In the last few work days, several workers asked when I would return. I had to admit that I don’t know when, or even if, I will. 
 <br>I would love to return. I found the culture to be overwhelmingly warm and welcoming. I miss seeing people greet each other in passing on the street. Values generally do not include climbing a sort of corporate ladder, but rather lie primarily in caring for their families, friends, and having faith.  
-<br>I admittidly was nervous to arrive after I read countless horror stories online. Luckily, I didn't encounter ill will. This is not to discount the reality that Guatemala is a country that has its problems. Money is hard to come by, and prices aren’t as low as you might think (I think México was actually cheaper to travel in.). Still, it is a shame that the national image is dominated by fearful stories. I encourage people to visit if that have an opportunity- the natural and cultural beauty is breathtaking. Learn some Spanish before you go, and you will find the experience that much more delightful.
+<br>I admittidly was nervous to arrive after I read countless horror stories online. Luckily, I didn't encounter ill will. This is not to discount the reality that Guatemala is a country that has its problems. Extortion is common. <br><img src="{{ site.github.url }}/assets/img/Extortion.jpg"><br> This unfortunate reality exists because money is hard to come by, and prices aren’t as low as you might think (I think México was actually cheaper to travel in.). Still, it is a shame that the national image is dominated by fearful stories. I encourage people to visit if that have an opportunity- the natural and cultural beauty is breathtaking. Learn some Spanish before you go, and you will find the experience that much more delightful.
 <br>I hope I can continue to be involved with coffee and research. I am excited about the future of the industry, which seems to be making a push towards progression of their practices. Thanks for reading this blog. When you next bean up with a cup of absolutely bomb and potent coffee, consider taking a moment to consider how much work was done for your enjoyment. 
 <br>
 
