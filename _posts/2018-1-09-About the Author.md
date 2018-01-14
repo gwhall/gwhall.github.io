@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Griffin Hall"
 categories: facts
 tags: [sample]
-image: Me-with-bags-of-bean.jpg
+image: Me_plant.jpg
 ---
  
 
