@@ -6,7 +6,7 @@ tags: [sample]
 image: Patio-beans.jpg
 ---
 <body>
- In mid November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a>(By the way, underlined words are hyperlinks, so click on them! )<br>These data were recorded in Spanish, so let me know if you need a translation. 
+ In mid-November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a> (By the way, underlined words are hyperlinks, so click on them! )<br>These data were recorded in Spanish, so let me know if you need a translation. 
  <br>During this time, I lived in a nice house on the finca (plantation) only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
 The five weeks gave me much to write about, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
@@ -34,10 +34,10 @@ Coffee producers have always relied upon simple, traditional methods to grow and
 <br>When no beans fall into the holes, they are ready. <br>Alternatively, you can determine when beans are at their “wash point” when the pH drops to 4.  <br>Producers are beginning to turn to more quantitative methods (like pH strips) to be able to produce a more consistent product. The most savvy people have often drawn influence from wine production methods, which are pretty effective in controlling post-harvest conditions. The coffee fermentation step is becoming scrutinized especially closely. One company sells specific yeast strains that can be added to a batch to help homogenize the fermentation product. Before I arrived, my bosses bought some, but were unsure how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
 <br>I am by no means a fermentation expert, but I have decent knowledge of plant/microbiology and experimental design. I was honored to be asked to come work in Guatemala, but was slightly nervous that I was underqualified. 
 
-<br>I arrived in Guatemala at night with two backpacks, and a mixture of nerves and excitement. 
+<br>I arrived in Guatemala at night with two backpacks, and a mixture of nerves and excitement.
 <br><br>
 11/14-11/16
-<br>I spent the first three days learning how coffee is wet processed here. The general process goes like this: depulping, classification based on size, “fermentation” in concrete tank between 12-48 hours, submersion in water for 12 hours to remove mucilage, washing, drying in patio and subsequently in revolving dryers. Beans are bagged and remain in the “bodega” until 
+<br>I spent the first three days learning how coffee is wet processed here.<br><img src="{{ site.github.url }}/assets/img/Panoramic of mill.jpg"><br>The general process goes like this: depulping, classification based on size, “fermentation” in concrete tank between 12-48 hours, submersion in water for 12 hours to remove mucilage, washing, drying in patio and subsequently in revolving dryers. Beans are bagged and remain in the “bodega” until 
 they are trucked to a dry processing mill, where the parchment (“cascarillo”) will be removed from the inner “café de oro”. This “oro” is what is exported, roasted, and enjoyed in far away lands. 
 <br>
 <br>Every mill has its own quirks. Here, days go like this;  
