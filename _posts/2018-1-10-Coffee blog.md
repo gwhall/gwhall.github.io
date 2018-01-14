@@ -2,7 +2,6 @@
 layout: post
 title: "Guatemala Coffee Experiments" 
 author: "Griffin Hall"
-categories: facts
 tags: [sample]
 image: Patio-beans.jpg
 ---
