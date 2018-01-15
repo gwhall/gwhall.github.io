@@ -6,6 +6,8 @@ tags: [sample]
 image: Patio-beans.jpg
 ---
 <body>
+ <center>Beans raked and drying on the patio</center>
+ <br>
  In mid-November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a> (By the way, underlined words are hyperlinks, so click on them! )<br>These data were recorded in Spanish, so let me know if you need a translation. 
  <br>During this time, I lived in a nice house on the finca (plantation) only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
