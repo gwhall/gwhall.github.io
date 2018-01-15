@@ -2,7 +2,6 @@
 layout: post
 title: "About the Author"
 author: "Griffin Hall"
-categories: facts
 tags: [sample]
 image: Me_plant.jpg
 ---
