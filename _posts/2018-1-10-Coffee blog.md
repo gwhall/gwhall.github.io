@@ -22,7 +22,7 @@ Ok, you want to learn more?
 <br><br>
 I just ask you remember one key thing: 
 <br><br>
-1. Fermentation is a strictly anaerobic process. <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br> There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase. In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others don’t). These details remain mostly unknown. <br>I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
+1. Fermentation is a strictly <b>anaerobic</b> process. <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br> There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase. In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others don’t). These details remain mostly unknown. <br>I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
 <br><br>	
 Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here are useful links to background info. 
 <br>*	<a href="http://redberrycoffee.co.id/wp-content/uploads/2017/04/Anatomy-of-a-Coffee-Bean-3-e1493459376430.jpg">Coffee fruit anatomy</a>
@@ -38,7 +38,7 @@ Coffee producers have always relied upon simple, traditional methods to grow and
 
 <br>I arrived in Guatemala at night with two backpacks, and a mixture of nerves and excitement.
 <br><br>
-11/14-11/16
+<b>11/14-11/16</b>
 <br>I spent the first three days learning how coffee is wet processed here.<br><img src="{{ site.github.url }}/assets/img/Panoramic of mill.jpg"><br>The general process goes like this: <br><img src="{{ site.github.url }}/assets/img/IMG_0684.jpg">
 depulping, classification based on size, “fermentation” in concrete tank between 12-48 hours, submersion in water for 12 hours to remove mucilage, washing, drying in patio and subsequently in revolving dryers. Beans are bagged and remain in the “bodega” until 
 they are trucked to a dry processing mill, where the parchment (“cascarillo”) will be removed from the inner “café de oro”. This “oro” is what is exported, roasted, and enjoyed in far away lands. 
@@ -65,7 +65,7 @@ Each criba has holes that allow seeds under a certain size to pass. In the first
 <br><br>
 Three dump trucks arrive each evening. Each day, multiple tons of coffee are processed. Yet, all this is accomplished by a very few number of dedicated employees. The average worker seems to arrive around 6:30 am, and some do not leave until 8 or 9 pm (if there is no problem/ delay…which there often are).
 <br><br>
-Introducing: The Team <br>
+<b>Introducing: The Team </b><br>
 <img src="{{ site.github.url }}/assets/img/Team.jpg">
 <br>(left to right) 
 <br>Jairo Sigüil, Wilfido Galindo, Alberto Wiwi, Hilario Jimón, Don Layo, Griffin Hall (the only english speaker), José Juan Alvarez, Derick Xía, Eliseo Calléjas, Juan Cos, Warner Cos, Francisco Pérez (El colocho)
@@ -97,7 +97,7 @@ It’s seriously no joke- some research predicts the majority of arable land for
 <br>
 
 
-<br><br>11/20/17
+<br><br><b>11/20/17</b>
 <br>My work begins tonight after depulping! I’m excited and probably look like some starry-eyed idealistic millennial, full of hope to change the industy for the better. I’ve been assigned an assistant- Jose Juan Alvarez. Here he is with experiment tubs. 
 <br>><img src="{{ site.github.url }}/assets/img/Experiment bucket with JJ.jpg"><br>
 He works as a farm advisor for <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://www.anacafe.org/&prev=search">Anacafe</a> ,and has been interested in learning about post-harvest processes for some time. We began a basic experiment that compares the <a href="http://lalcafeyeast.com/">Lalcafe Cima® yeast (aka some undisclosed strain of S. cerevisiae)</a> vs. bread yeast we bought in town vs. a control. I got the bags of yeast here. <br><img src="{{ site.github.url }}/assets/img/IMG_5729.jpg"><br><br><img src="{{ site.github.url }}/assets/img/Experiment bucket.jpg"><br> We took various measurements for all experiements- see the data sheet near the top of the page complete disclosure! <br>
@@ -111,18 +111,18 @@ For this test, we let it run until it was at wash point. Traditionally, the stic
 That night at home, I tried to do some Internet research to learn what environmental factors could affect fermentation. I immediately missed having connection to a university internet- I could only read paper summaries (called Abstracts). ☹ 
 
 
-<br><br>11/21/17
+<br><br><b>11/21/17</b>
 <br> My job gave me weekends off, so I traveled around some. Over the weekend, I met a very small producer in San Miguel, at Lake Atitlán. He told me a tale of the <a href="https://translate.google.com/translate?hl=en&sl=es&u=http://moscamed-guatemala.org.gt/&prev=search">MoscaMed program</a>. His eyes were bright as he explained he had no doubt the program is a conspiracy, created by México to purposefully spread the Roya in Guatemala to relatively elevate their own industry. 
 How scandalous! <br>However, when I asked my boss, he immediately denounced the claim, saying the fly doesn’t do much to spread the Roya. 
 <br> By the way, the Roya is no joke. There are ~90 varieties of the Roya, and it often mutates after each fungicide application. Boss believes there may be a cure, but the fungicide industry won’t let it out… hmm…
 
-<br><br>11/22/17
+<br><br><b>11/22/17</b>
 <br>I have determined that I need to change my mentality of what it means it work in rural Guatemala. My USA work mentality isn’t compatible with a much more lax culture of workers who aren’t accustomed to being totally precise. I find myself frustrated, feeling like I am the only one who knows cares about being precise. For example, the workers don’t understand why washing a treatment and control batch at different times would be problematic. I feel silly being frustrated and occasionally stressed amongst these happy and relaxed people. Ok, I just have to roll with it- this is the third world.  These people have never been taught how to do science- this is what trying to do experimentation in the third world looks and feels like. Good life lessons here at the mill. 
 <br> 
 Today, I became really curious about flies. Flies! The hidden answer. When I tap the bucket, dozens arise. More appear from the yeast bucket. Do they eat the yeast? Could this reduce microbial growth and therefore slow fementation? I’m privately nerding out.. 
 
 
-<br><br>11/22/17
+<br><br><b>11/22/17</b>
 <br>It seems that the results show that the bucket with more flies arrived at its wash point more quickly than the other batch. Maybe the flies somehow accelerate growth? I don’t have access to any fine mesh net to exclude them, so my only option is to cover the bucket with a thick black plastic sheet. 
 <br><img src="{{ site.github.url }}/assets/img/Open vs closed with datalogger.jpg">
 <br>This will, of course, also greatly reduce oxygen access, but I am too curious to not do it.  The nice thing here is that I have nearly total freedom to test what I want. If I had enough resources, I could have been living a scientist’s dream! 
@@ -133,7 +133,7 @@ I have another theory about the flies. Perhaps a higher sugar concentration lead
 Today I also learned that when coffee is more mature to begin with (aka higher Brix), more pulp ends up in the fermentation tanks. 
 
 
-<br><br>11/23/17
+<br><br><b>11/23/17</b>
 <br>Today, we shifted a we began to determine wash point with a mixture of pH and traditional knowledge. After 18.5 hours of fermentation, the pH of covered bucket was 4, and pH of the open bucket was 5. We made the change because Hilario said that, even though pH was low enough for the covered batch, it still wasn’t ready because of touch (the honey didn’t come off easily). We waited 1.5 hours, and then washed. 
 
 <br><br>The differences between coffee origin and consumer countries are vast, and I don’t think this gets enough attention. <br>
@@ -146,14 +146,14 @@ As part of this blog, I want to show people what the culture is like in a coffee
 There was ice on the volcano this morning. Alfredo sent me photos. 
 
 
-<br><br>11/29/17
+<br><br><b>11/29/17</b>
 <br>Newcomers on the finca! I’m not the only foreigner, though they still can’t call anyone else Gringo (it replaced my real name within a few days of my arrival). Japanese buyers from OCC have been here the past 2 days renewing a contract for Geisha (a pricey variety with a delicate taste). I accompanied these two men and an administrator to give a tour of the mill. I translated Spanish to the one who spoke English. It’s good to spend time with people who have fresh eyes for something you have become used to. Seeing the men marveling at the dozens of people squished into the back of a truck on the dirt road awakened memories of when I felt the same thing- witnessing many ridiculous and unsafe conditions of daily life. 
 <br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">
 <br>I realized how quickly I became accustomed to this culture- and once again, how humans are quite adaptable. We are the most invasive species, after all. 
 <br>
 On our tour, we spoke of how different things were in our respective countries. We also discussed how we would use more sterile methods if we were in charge. That night, we drank OCC instant coffee. <br><img src="{{ site.github.url }}/assets/img/IMG_5733.jpg"><br>Then, I chatted with one of them about science and coffee while watching the Fuego volcano erupt from our neatly trimmed lawn.  
 
-<br><br>11/30/17
+<br><br><b>11/30/17</b>
 <br>We are about ready to cup our first samples! I explain the process a bit further down.<br>
 We have found, so far, that Lalcafe yeast is ready to wash after 18-21.5 hours
 Covered buckets are ready to wash after 20 hours. Covering creates anaerobic conditions, which definitely changes what microbial metabolisms occur. I still hold the deep desire to ID the microbes, especially after talking to the Japanese guy last night. He holds a MS in Ecology and has used 96-well plates with microbial digestion to test soil diversity. He has no plate reader here, so just takes a photo- but it is still informative. (More improper science in coffee land.) He noted that this region has lower microbial diversity compared to Jamaica, no doubt due to the presence of volcanic ash here<br>
@@ -162,7 +162,7 @@ Now that we really have our work schedule down, Jose Juan and I are performing m
 I’m still keeping my eye on the flies. I partly hate them because they bite (they are actually mosquitos, just not the same species that are in the USA..) and their marks itch.. but they also inspire curiosity. Today, there are more flies around the covered- only bucket. They can still definitely detect volatile chemicals emitted from the fermenting beans because it is not a totally sealed environment. I keep wondering. 
 
 
-<br><br>12/4/17
+<br><br><b>12/4/17</b>
 <br>Another newcomer! I’m now sharing my room with Jorge.<br>
 (Pictured on left)<br>
 <img src="{{ site.github.url }}/assets/img/Jorge and JJ.jpg">
@@ -170,16 +170,16 @@ I’m still keeping my eye on the flies. I partly hate them because they bite (t
 <br>
 Workers accidentally spilled water in the patio on one set of drying beans, but it’s not bad enough to re-do the experiment. I don’t worry about this improper science anymore, which has allowed for a lot more enjoyment. 
 
-<br><br>12/11/17 
+<br><br><b>12/11/17</b>
 <br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. <br>We submitted our green bean samples, which were roasted the day of cupping.<br><br><img src="{{ site.github.url }}/assets/img/IMG_0665.jpg"><br><iframe width="560" height="315" src="https://www.youtube.com/embed/qjihz-d25EU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples a day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. Yes, the slurping is necessary- it creates a mist that evenly coats all surfaces in their mouths.
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/HWEzyQaI018" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-<br><br>12/14/17
+<br><br><b>12/14/17</b>
 <br>My depature date is looming and we are squeezing in the last of the experiments. They are mostly replicates of previous tests. I’m just trying to make the data a little stronger. When I leave, Jose Juan will fully take charge of monitoring the remaining drying samples and ensuring their delivery to Anacafe after the holidays. He must also counting dry beans and record the data. When we discussed the tasks he would do, I realized that no one else at the mill (besides maybe El Colocho) would be able to do this. It dawned on me that I had no idea how many mill employees had attended high school, nor how were even literate (it’s a country with a 75% literacy rate).  
 </body>
 
-Wrapping up:<br>
+<b>Wrapping up:</b><br>
 I've spend the Holidays back in the USA and wish I had a more definitive end to my blog. Something like- “...and we discovered the yeast is the best thing ever! Incredible gains!”. For now, I'm waiting on my boss to email me the final cupping scores. <br>
 Several workers asked when I would return to Guatemala. I had to admit that I don’t know when, or even if, I will. 
 <br>I would love to return. I found the culture to be overwhelmingly warm and welcoming. I miss seeing people greet each other in passing on the street. Values generally do not include climbing a sort of corporate ladder, but rather lie primarily in their religion, and caring for their loved ones.
