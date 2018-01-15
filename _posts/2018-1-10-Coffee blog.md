@@ -9,7 +9,7 @@ image: Patio-beans.jpg
 <center>Beans raked and drying on the patio</center>
  <br>
  In mid-November 2017, I lived in the <a href="https://www.google.com/maps/place/Acatenango/@14.5004601,-90.8931758,14z/data=!3m1!4b1!4m5!3m4!1s0x858917a5046cfc49:0x2d5b1ab999738383!8m2!3d14.500461!4d-90.8756662">Acatenango Region</a> of Guatemala for five weeks. I was invited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br><br>Check out the <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data</a>! <br>(By the way, underlined words are hyperlinks, so click on them! )<br>These data were recorded in Spanish, so let me know if you need a translation. 
- <br>During this time, I lived in a nice house on the finca (plantation) only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
+ <br><br>During this time, I lived in a nice house on the finca (plantation) only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
 The five weeks gave me much to write about, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 
@@ -19,8 +19,7 @@ The five weeks gave me much to write about, but for you Tl:Dr types- here is wha
 <br><br><br>
 
 Ok, you want to learn more? 
-<br><br>
-I just ask you remember one key thing: 
+<br>I just ask you remember one key thing: 
 <br><br>
 1. Fermentation is a strictly <b>anaerobic</b> process. <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br> There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase. In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others don’t). These details remain mostly unknown. <br>I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
 <br><br>	
