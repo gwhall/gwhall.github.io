@@ -67,8 +67,8 @@ Three dump trucks arrive each evening. Each day, multiple tons of coffee are pro
 <br><br>
 <b>Introducing: The Team </b><br>
 <img src="{{ site.github.url }}/assets/img/Team.jpg">
-<br>(left to right) 
-<br>Jairo Sigüil, Wilfido Galindo, Alberto Wiwi, Hilario Jimón, Don Layo, Griffin Hall (the only english speaker), José Juan Alvarez, Derick Xía, Eliseo Calléjas, Juan Cos, Warner Cos, Francisco Pérez (El colocho)
+<br><center>(left to right) 
+<br>Jairo Sigüil, Wilfido Galindo, Alberto Wiwi, Hilario Jimón, Don Layo, Griffin Hall (the only english speaker), José Juan Alvarez, Derick Xía, Eliseo Calléjas, Juan Cos, Warner Cos, Francisco Pérez (El colocho)</center>
 <br><br>
 I didn’t get to interact with all, but here are mini bios of some. 
 <br>1. El Colocho
