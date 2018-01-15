@@ -149,7 +149,7 @@ There was ice on the volcano this morning. Alfredo sent me photos.
 <br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">
 <br>I realized how quickly I became accustomed to this culture- and once again, how humans are quite adaptable. We are the most invasive species, after all. 
 <br>
-On our tour, we spoke of how different things were in our respective countries. We also discussed how we would use more sterile methods if we were in charge. That night, I chatted with one of them while watching the Fuego volcano erupt from our neatly trimmed lawn.  
+On our tour, we spoke of how different things were in our respective countries. We also discussed how we would use more sterile methods if we were in charge. That night, we drank OCC instant coffee. <br><img src="{{ site.github.url }}/assets/img/IMG_5733.jpg"><br>Then, I chatted with one of them about science and coffee while watching the Fuego volcano erupt from our neatly trimmed lawn.  
 
 <br><br>11/30/17
 <br>We are about ready to cup our first samples! I explain the process a bit further down.<br>
