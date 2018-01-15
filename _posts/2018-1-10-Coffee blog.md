@@ -41,7 +41,7 @@ Coffee producers have always relied upon simple, traditional methods to grow and
 they are trucked to a dry processing mill, where the parchment (“cascarillo”) will be removed from the inner “café de oro”. This “oro” is what is exported, roasted, and enjoyed in far away lands. 
 <br>
 <br>Every mill has its own quirks. Here, days go like this;  
-<br>1. Coffee fruit picked throughout the day by entire families.<br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">They and their harvest arrive at the mill in dump trucks between 3 and 7 pm.  <br><img src="{{ site.github.url }}/assets/img/Delivery truck.jpg">
+<br>1. Coffee fruit picked throughout the day by entire families.<br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">They and their harvest arrive at the mill in dump trucks between 3 and 7 pm.  <br><img src="{{ site.github.url }}/assets/img/Delivery truck.jpg"><br><iframe width="560" height="315" src="https://www.youtube.com/embed/S1aENZz_R_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 <br>2. <br>Families weigh their bags by the “quintal” (100 lbs.)<br><img src="{{ site.github.url }}/assets/img/Weighing quintales.jpg"> <br> This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
 <br><br>3. Fruit is dumped into giant tanks of water. Here, the first separation of quality occurs. Any “floaters” (over-ripe or otherwise defected fruit (due to pest infestation or disease) are scraped off, are depulped and sent to concrete fermentation tanks. 
 <br>All pulp is sent through PVC tubes to a truck outside the mill.<br> <img src="{{ site.github.url }}/assets/img/Pulp truck.jpg"><br> The pulp will be sent to nurseries for use as compost. 
@@ -53,7 +53,7 @@ Each criba has holes that allow seeds under a certain size to pass. In the first
 <br>5. The rest of non-1A beans pass through a second criba that selects for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller bean size. 
 <br>6. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff… aka future Nescafe)<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>7. Beans are fermented in open concrete tanks.<br><img src="{{ site.github.url }}/assets/img/Fermentation tank with Mario.jpg"><br>They definitely are not sterile, but they do the job.<br><img src="{{ site.github.url }}/assets/img/Dirty tank.jpg"><br>
-<br>8.After fermentation, beans then washed to remove mucilage. They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
+<br>8.After fermentation, beans then washed to remove mucilage. <br><iframe width="560" height="315" src="https://www.youtube.com/embed/4_0Src98NeQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>They look like this after washing. <img src="{{ site.github.url }}/assets/img/After wash.jpg">
 <br>9. Washed beans are placed out to dry, either directly on the patio, or in wooden boxes with metal screen bottoms. <br><img src="{{ site.github.url }}/assets/img/Drying box.jpg"><br>Either way, someone needs to periodically mix the drying beans to homogenize the product. Here, it's Jose Juan.<br><img src="{{ site.github.url }}/assets/img/Dry box with JJ.jpg">
 
 
@@ -88,8 +88,9 @@ Hilario (son) is mostly responsible for overseeing the classifications (1B,2,1C,
 <br><br>
 
 Despite the efforts of these diligent workers and the many field workers, producing quality coffee is always a challenging and uncertain business. One of the first things my boss told me was that climate change is noticeable affecting them. Weather is becoming more variable, including more frequent severe weather that can dislodge fruit from branches, wash away soil from roots, and spread fungal disease. Hectares of prime farmland are disappearing. To attain similar conditions as before, they must plant at higher elevations, but obviously a mountain only goes so high. <br>
-It’s seriously no joke- some research predicts the majority of arable land for coffee will disappear within 100 years. <br>In 2011, this company was hit hard with a “Roya” <a href="https://en.wikipedia.org/wiki/Hemileia_vastatrix">coffee leaf rust</a> outbreak that reduced their production by 75% of their previous year’s crop. They still are climbing back, but still significanly below prior production levels
+It’s seriously no joke- some research predicts the majority of arable land for coffee will disappear within 100 years. <br><br>In 2011, this company was hit hard with a “Roya” <a href="https://en.wikipedia.org/wiki/Hemileia_vastatrix">coffee leaf rust</a> outbreak that reduced their production by 75% of their previous year’s crop. They still are climbing back, but still significanly below prior production levels
 <br><img src="{{ site.github.url }}/assets/img/Coffee prices.jpg">
+<br>Coffee prices over the years. The peak about 2/3 to the right was 2011. 
 <br>
 
 
@@ -98,7 +99,7 @@ It’s seriously no joke- some research predicts the majority of arable land for
 <br>><img src="{{ site.github.url }}/assets/img/Experiment bucket with JJ.jpg"><br>
 He works as a farm advisor for <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://www.anacafe.org/&prev=search">Anacafe</a> ,and has been interested in learning about post-harvest processes for some time. We began a basic experiment that compares the <a href="http://lalcafeyeast.com/">Lalcafe Cima® yeast (aka some undisclosed strain of S. cerevisiae)</a> vs. a control. We took various measurements for all experiements- see the data sheet near the top of the page complete disclosure! <br>
 For each experiment, we used 10 kg of bean in each big blue bucket. 
-< br>><img src="{{ site.github.url }}/assets/img/Experiment bucket.jpg"><br>
+<br><img src="{{ site.github.url }}/assets/img/Experiment bucket.jpg"><br>
 For this test, we let it run until it was at wash point. Traditionally, the stick method has been employed to determine when a lot is ready to be washed. 
 <br> However, we used a slightly more modern method of pH strips to determine when to terminate. (about pH 4). I know…so fancy.
 <br><img src="{{ site.github.url }}/assets/img/pH.jpg">
@@ -134,7 +135,7 @@ Today I also learned that when coffee is more mature to begin with (aka higher B
 
 <br><br>The differences between coffee origin and consumer countries are vast, and I don’t think this gets enough attention. <br>
 As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. 
-<br.<iframe width="560" height="315" src="https://www.youtube.com/embed/YqjVQMXdFJA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/YqjVQMXdFJA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>If you don't have that patience now, check this speedy one out. 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/bj84ngMrVyw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
@@ -167,7 +168,7 @@ I’m still keeping my eye on the flies. I partly hate them because they bite (t
 Workers accidentally spilled water in the patio on one set of drying beans, but it’s not bad enough to re-do the experiment. I don’t worry about this improper science anymore, which has allowed for a lot more enjoyment. 
 
 <br><br>12/11/17 
-<br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. Here is how it goes (attach cupping process photo). 
+<br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. <br>We submitted our green bean samples, which were roasted the day of cupping.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/qjihz-d25EU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples a day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. Yes, the slurping is necessary- it creates a mist that evenly coats all surfaces in their mouths.
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/HWEzyQaI018" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
