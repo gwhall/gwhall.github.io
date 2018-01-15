@@ -32,7 +32,7 @@ Since I want to keep this focused as much as possible on my experience (aka less
 <br><br><br><br>
 
 Coffee producers have always relied upon simple, traditional methods to grow and process their product. You can see this in action with the “stick test”- a way to determine if the fermented beans are ready to be washed. 
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/85oFEAEtkyE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br><center><iframe width="560" height="315" src="https://www.youtube.com/embed/85oFEAEtkyE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 <br>When no beans fall into the holes, they are ready. <br>Alternatively, you can determine when beans are at their “wash point” when the pH drops to 4.  <br>Producers are beginning to turn to more quantitative methods (like pH strips) to be able to produce a more consistent product. The most savvy people have often drawn influence from wine production methods, which are pretty effective in controlling post-harvest conditions. The coffee fermentation step is becoming scrutinized especially closely. One company sells specific yeast strains that can be added to a batch to help homogenize the fermentation product. Before I arrived, my bosses bought some, but were unsure how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
 <br>I am by no means a fermentation expert, but I have decent knowledge of plant/microbiology and experimental design. I was honored to be asked to come work in Guatemala, but was slightly nervous that I was underqualified. 
 
