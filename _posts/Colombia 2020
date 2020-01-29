@@ -1,5 +1,3 @@
-<img src="{{ site.github.url }}/assets/img/04BEF893-6E8F-4999-8D4A-50D304EF4ED0.jpeg">
-
 ---
 layout: post
 title: "Two Colombian Farm Visits and Many Cafeter" 
@@ -7,6 +5,10 @@ author: "Griffin Hall"
 tags: [sample]
 image: NEED
 ---
+
+<img src="{{ site.github.url }}/assets/img/04BEF893-6E8F-4999-8D4A-50D304EF4ED0.jpeg">
+
+
 <body>
 <center>Beans raked and drying on the patio</center>
  <br>
