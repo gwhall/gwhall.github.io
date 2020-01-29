@@ -23,3 +23,11 @@ $phone-width: 480px;
 $header-thickness: 56px;
 
 @import "_sass/-sections-dir";
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
